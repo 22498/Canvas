@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+#container {
+    width: 600px;
+    margin: auto;
+}
+
+#canvas {
+    background-image: url("grid.png");
+}
